@@ -86,69 +86,69 @@ VARIABLE DESCRIPTIONS
 
 Note that all signals are measured in Hz.
 
-Activity.Type: Type of the activity carried out during test or training
-Subject.Id: Id of the person who delivered test or training data
-BodyAcc.Mean.X.Time.Domain: Mean of the mean of the body linear acceleration on x-axis in time domain
-BodyAcc.Mean.Y.Time.Domain: Mean of the mean of the body linear acceleration on y-axis in time domain
-BodyAcc.Mean.Z.Time.Domain: Mean of the mean of the body linear acceleration on z-axis in time domain
-BodyAcc.StdDev.X.Time.Domain: Mean of the standard deviation of the body linear acceleration on x-axis in time domain
-BodyAcc.StdDev.Y.Time.Domain: Mean of the standard deviation of the body linear acceleration on y-axis in time domain
-BodyAcc.StdDev.Z.Time.Domain: Mean of the standard deviation of the body linear acceleration on z-axis in time domain
-GravityAcc.Mean.X.Time.Domain: Mean of the mean of the gravity acceleration on the x-axis in the time domain
-GravityAcc.Mean.Y.Time.Domain :	Mean of the mean of the gravity acceleration on the y-axis in the time domain
-GravityAcc.Mean.Z.Time.Domain :	Mean of the mean of the gravity acceleration on the z-axis in the time domain
-GravityAcc.StdDev.X.Time.Domain: Mean of the standard deviation of the gravity acceleration on the x-axis in the time domain
-GravityAcc.StdDev.Y.Time.Domain: Mean of the standard deviation of the gravity acceleration on the y-axis in the time domain
-GravityAcc.StdDev.Z.Time.Domain: Mean of the standard deviation of the gravity acceleration on the z-axis in the time domain
-BodyAccJerk.Mean.X.Time.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on x-axis in time domain
-BodyAccJerk.Mean.Y.Time.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on y-axis in time domain
-BodyAccJerk.Mean.Z.Time.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on z-axis in time domain
-BodyAccJerk.StdDev.X.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on x-axis in time domain
-BodyAccJerk.StdDev.Y.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on y-axis in time domain
-BodyAccJerk.StdDev.Z.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on z-axis in time domain
-BodyGyro.Mean.X.Time.Domain: Mean of the mean of the Jerk signal calculated from the gravity acceleration on x-axis in time domain
-BodyGyro.Mean.Y.Time.Domain: Mean of the mean of the Jerk signal calculated from the gravity acceleration on y-axis in time domain
-BodyGyro.Mean.Z.Time.Domain: Mean of the mean of the Jerk signal calculated from the gravity acceleration on z-axis in time domain
-BodyGyro.StdDev.X.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on x-axis in time domain
-BodyGyro.StdDev.Y.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on y-axis in time domain
-BodyGyro.StdDev.Z.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on z-axis in time domain
-BodyGyroJerk.Mean.X.Time.Domain: Mean of the mean of the angular velocity on x-axis in time domain
-BodyGyroJerk.Mean.Y.Time.Domain: Mean of the mean of the angular velocity on y-axis in time domain
-BodyGyroJerk.Mean.Z.Time.Domain: Mean of the mean of the angular velocity on z-axis in time domain
-BodyGyroJerk.StdDev.X.Time.Domain: Mean of the standard deviation of the angular velocity on x-axis in time domain
-BodyGyroJerk.StdDev.Y.Time.Domain: Mean of the standard deviation of the angular velocity on y-axis in time domain
-BodyGyroJerk.StdDev.Z.Time.Domain: Mean of the standard deviation  of the angular velocity on z-axis in time domain
-BodyAcc.Magnitude.Mean.Time.Domain: Mean of the mean of the magnitude of the body linear acceleration in time domain
-BodyAcc.Magnitude.StdDev.Time.Domain: Mean of the standard deviaton of the magnitude of the body linear acceleration in time domain
-GravityAcc.Magnitude.Mean.Time.Domain: Mean of the mean of the magnitude of the gravity acceleration in time domain
-GravityAcc.Magnitude.StdDev.Time.Domain: Mean of the standard deviation of the magnitude of the gravity acceleration in time domain
-BodyAccJerk.Magnitude.Mean.Time.Domain: Mean of the mean of the magnitude of Jerk signal calculated from the body linear acceleration in time domain
-BodyAccJerk.Magnitude.StdDev.Time.Domain: Mean of the standard deviation of the magnitude of Jerk signal calculated from the body linear acceleration in time domain
-BodyGyroJerk.Magnitude.Mean.Time.Domain: Mean of the mean of the magnitude of the angular velocity in time domain
-BodyGyroJerk.Magnitude.StdDev.Time.Domain: Mean of the standard deviation of the magnitude of the angular velocity in time domain
-BodyAcc.Mean.X.Freq.Domain: Mean of the mean of the body linear acceleration on x-axis in frequency domain
-BodyAcc.Mean.Y.Freq.Domain: Mean of the mean of the body linear acceleration on y-axis in frequency domain
-BodyAcc.Mean.Z.Freq.Domain: Mean of the mean of the body linear acceleration on z-axis in frequency domain
-BodyAcc.StdDev.X.Freq.Domain: Mean of the standard deviation of the body linear acceleration on x-axis in frequency domain
-BodyAcc.StdDev.Y.Freq.Domain: Mean of the standard deviation of the body linear acceleration on y-axis in frequency domain
-BodyAcc.StdDev.Z.Freq.Domain: Mean of the standard deviation of the body linear acceleration on z-axis in frequency domain
-BodyAccJerk.Mean.X.Freq.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on x-axis in frequency domain
-BodyAccJerk.Mean.Y.Freq.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on y-axis in frequency domain
-BodyAccJerk.Mean.Z.Freq.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on z-axis in frequency domain
-BodyAccJerk.StdDev.X.Freq.Domain: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on x-axis in frequency domain
-BodyAccJerk.StdDev.Y: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on y-axis in frequency domain
-BodyAccJerk.StdDev.Z: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on z-axis in frequency domain
-BodyGyro.Mean.X: Mean of the mean of the Jerk signal calculated from the gravity acceleration on x-axis in time domain
-BodyGyro.Mean.Y: Mean of the mean of the Jerk signal calculated from the gravity acceleration on y-axis in time domain
-BodyGyro.Mean.Z: Mean of the mean of the Jerk signal calculated from the gravity acceleration on z-axis in time domain
-BodyGyro.StdDev.X: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on x-axis in time domain
-BodyGyro.StdDev.Y: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on y-axis in time domain
-BodyGyro.StdDev.Z: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on z-axis in time domain
-BodyAcc.Magnitude.Mean:	Mean of the mean of the magnitude of the body linear acceleration in frequency domain
-BodyAcc.Magnitude.StdDev: Mean of the standard deviaton of the magnitude of the body linear acceleration in frequency domain
-BodyAccJerk.Magnitude.Mean: Mean of the mean of the magnitude of Jerk signal calculated from the body linear acceleration in frequency domain
-BodyAccJerk.Magnitude.StdDev: Mean of standard deviation of the magnitude of Jerk signal calculated from the body linear acceleration in frequency domain
-BodyGyro.Magnitude.Mean of the mean: Mean of the magnitude of Jerk signal calculated from the gravity acceleration in frequency domain
-BodyGyro.Magnitude.StdDev: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration in frequency domain
-BodyGyroJerk.Magnitude.Mean of the mean: Mean of the magnitude of the angular velocity in frequency domain
-BodyGyroJerk.Magnitude.StdDev: Mean of the standard deviation of the magnitude of the angular velocity in frequency domain
+- Activity.Type: Type of the activity carried out during test or training
+- Subject.Id: Id of the person who delivered test or training data
+- BodyAcc.Mean.X.Time.Domain: Mean of the mean of the body linear acceleration on x-axis in time domain
+- BodyAcc.Mean.Y.Time.Domain: Mean of the mean of the body linear acceleration on y-axis in time domain
+- BodyAcc.Mean.Z.Time.Domain: Mean of the mean of the body linear acceleration on z-axis in time domain
+- BodyAcc.StdDev.X.Time.Domain: Mean of the standard deviation of the body linear acceleration on x-axis in time domain
+- BodyAcc.StdDev.Y.Time.Domain: Mean of the standard deviation of the body linear acceleration on y-axis in time domain
+- BodyAcc.StdDev.Z.Time.Domain: Mean of the standard deviation of the body linear acceleration on z-axis in time domain
+- GravityAcc.Mean.X.Time.Domain: Mean of the mean of the gravity acceleration on the x-axis in the time domain
+- GravityAcc.Mean.Y.Time.Domain :	Mean of the mean of the gravity acceleration on the y-axis in the time domain
+- GravityAcc.Mean.Z.Time.Domain :	Mean of the mean of the gravity acceleration on the z-axis in the time domain
+- GravityAcc.StdDev.X.Time.Domain: Mean of the standard deviation of the gravity acceleration on the x-axis in the time domain
+- GravityAcc.StdDev.Y.Time.Domain: Mean of the standard deviation of the gravity acceleration on the y-axis in the time domain
+- GravityAcc.StdDev.Z.Time.Domain: Mean of the standard deviation of the gravity acceleration on the z-axis in the time domain
+- BodyAccJerk.Mean.X.Time.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on x-axis in time domain
+- BodyAccJerk.Mean.Y.Time.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on y-axis in time domain
+- BodyAccJerk.Mean.Z.Time.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on z-axis in time domain
+- BodyAccJerk.StdDev.X.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on x-axis in time domain
+- BodyAccJerk.StdDev.Y.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on y-axis in time domain
+- BodyAccJerk.StdDev.Z.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on z-axis in time domain
+- BodyGyro.Mean.X.Time.Domain: Mean of the mean of the Jerk signal calculated from the gravity acceleration on x-axis in time domain
+- BodyGyro.Mean.Y.Time.Domain: Mean of the mean of the Jerk signal calculated from the gravity acceleration on y-axis in time domain
+- BodyGyro.Mean.Z.Time.Domain: Mean of the mean of the Jerk signal calculated from the gravity acceleration on z-axis in time domain
+- BodyGyro.StdDev.X.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on x-axis in time domain
+- BodyGyro.StdDev.Y.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on y-axis in time domain
+- BodyGyro.StdDev.Z.Time.Domain: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on z-axis in time domain
+- BodyGyroJerk.Mean.X.Time.Domain: Mean of the mean of the angular velocity on x-axis in time domain
+- BodyGyroJerk.Mean.Y.Time.Domain: Mean of the mean of the angular velocity on y-axis in time domain
+- BodyGyroJerk.Mean.Z.Time.Domain: Mean of the mean of the angular velocity on z-axis in time domain
+- BodyGyroJerk.StdDev.X.Time.Domain: Mean of the standard deviation of the angular velocity on x-axis in time domain
+- BodyGyroJerk.StdDev.Y.Time.Domain: Mean of the standard deviation of the angular velocity on y-axis in time domain
+- BodyGyroJerk.StdDev.Z.Time.Domain: Mean of the standard deviation  of the angular velocity on z-axis in time domain
+- BodyAcc.Magnitude.Mean.Time.Domain: Mean of the mean of the magnitude of the body linear acceleration in time domain
+- BodyAcc.Magnitude.StdDev.Time.Domain: Mean of the standard deviaton of the magnitude of the body linear acceleration in time domain
+- GravityAcc.Magnitude.Mean.Time.Domain: Mean of the mean of the magnitude of the gravity acceleration in time domain
+- GravityAcc.Magnitude.StdDev.Time.Domain: Mean of the standard deviation of the magnitude of the gravity acceleration in time domain
+- BodyAccJerk.Magnitude.Mean.Time.Domain: Mean of the mean of the magnitude of Jerk signal calculated from the body linear acceleration in time domain
+- BodyAccJerk.Magnitude.StdDev.Time.Domain: Mean of the standard deviation of the magnitude of Jerk signal calculated from the body linear acceleration in time domain
+- BodyGyroJerk.Magnitude.Mean.Time.Domain: Mean of the mean of the magnitude of the angular velocity in time domain
+- BodyGyroJerk.Magnitude.StdDev.Time.Domain: Mean of the standard deviation of the magnitude of the angular velocity in time domain
+- BodyAcc.Mean.X.Freq.Domain: Mean of the mean of the body linear acceleration on x-axis in frequency domain
+- BodyAcc.Mean.Y.Freq.Domain: Mean of the mean of the body linear acceleration on y-axis in frequency domain
+- BodyAcc.Mean.Z.Freq.Domain: Mean of the mean of the body linear acceleration on z-axis in frequency domain
+- BodyAcc.StdDev.X.Freq.Domain: Mean of the standard deviation of the body linear acceleration on x-axis in frequency domain
+- BodyAcc.StdDev.Y.Freq.Domain: Mean of the standard deviation of the body linear acceleration on y-axis in frequency domain
+- BodyAcc.StdDev.Z.Freq.Domain: Mean of the standard deviation of the body linear acceleration on z-axis in frequency domain
+- BodyAccJerk.Mean.X.Freq.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on x-axis in frequency domain
+- BodyAccJerk.Mean.Y.Freq.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on y-axis in frequency domain
+- BodyAccJerk.Mean.Z.Freq.Domain: Mean of the mean of the Jerk signal calculated from the body linear acceleration on z-axis in frequency domain
+- BodyAccJerk.StdDev.X.Freq.Domain: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on x-axis in frequency domain
+- BodyAccJerk.StdDev.Y: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on y-axis in frequency domain
+- BodyAccJerk.StdDev.Z: Mean of the standard deviation of the Jerk signal calculated from the body linear acceleration on z-axis in frequency domain
+- BodyGyro.Mean.X: Mean of the mean of the Jerk signal calculated from the gravity acceleration on x-axis in time domain
+- BodyGyro.Mean.Y: Mean of the mean of the Jerk signal calculated from the gravity acceleration on y-axis in time domain
+- BodyGyro.Mean.Z: Mean of the mean of the Jerk signal calculated from the gravity acceleration on z-axis in time domain
+- BodyGyro.StdDev.X: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on x-axis in time domain
+- BodyGyro.StdDev.Y: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on y-axis in time domain
+- BodyGyro.StdDev.Z: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration on z-axis in time domain
+- BodyAcc.Magnitude.Mean:	Mean of the mean of the magnitude of the body linear acceleration in frequency domain
+- BodyAcc.Magnitude.StdDev: Mean of the standard deviaton of the magnitude of the body linear acceleration in frequency domain
+- BodyAccJerk.Magnitude.Mean: Mean of the mean of the magnitude of Jerk signal calculated from the body linear acceleration in frequency domain
+- BodyAccJerk.Magnitude.StdDev: Mean of standard deviation of the magnitude of Jerk signal calculated from the body linear acceleration in frequency domain
+- BodyGyro.Magnitude.Mean of the mean: Mean of the magnitude of Jerk signal calculated from the gravity acceleration in frequency domain
+- BodyGyro.Magnitude.StdDev: Mean of the standard deviation of the Jerk signal calculated from the gravity acceleration in frequency domain
+- BodyGyroJerk.Magnitude.Mean of the mean: Mean of the magnitude of the angular velocity in frequency domain
+- BodyGyroJerk.Magnitude.StdDev: Mean of the standard deviation of the magnitude of the angular velocity in frequency domain
